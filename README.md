@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ebrahim Adel Mahmoud</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ebrahim-Adel-Mahmoud/banner/main/banner.png" width="100%" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/Ebrahim-Adel-Mahmoud/banner/main/ChatGPT%20Image%20Jul%205,%202026,%2006_03_20%20PM.png" width="100%" alt="Banner"/>
 </p>
 
 <h3 align="center">
