@@ -109,7 +109,14 @@ Currently learning **React.js** to become a Full Stack Developer.
 ![Xdebug](https://img.shields.io/badge/Xdebug-Debugging-green?style=for-the-badge)
 
 ---
+## 🎯 Quick Highlights
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-4B8BBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects-15%2B%20Completed-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Laravel-Expert-FF2D20?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-4CAF50?style=for-the-badge" />
+</p>
 
 # 📊 GitHub Stats
 
