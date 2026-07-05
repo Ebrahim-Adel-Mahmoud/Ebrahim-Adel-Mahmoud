@@ -6,8 +6,8 @@ Backend Laravel Developer | PHP | Symfony | REST APIs | React Learner
 
 <p align="center">
 I'm a Backend Developer with 4+ years of experience building scalable web applications using Laravel and PHP.
-Currently expanding my skills in React to become a Full Stack Developer.
-I enjoy designing clean APIs, optimizing databases, and solving real-world problems.
+I specialize in building scalable RESTful APIs, optimizing databases, integrating third-party services, and delivering high-performance backend solutions.
+Currently expanding my skills in React.js to become a Full Stack Developer.
 </p>
 
 ---
@@ -18,18 +18,22 @@ I enjoy designing clean APIs, optimizing databases, and solving real-world probl
 - 🔥 Strong experience in **Laravel**
 - ⚡ Good knowledge of **Symfony**
 - 🌱 Currently learning **React.js**
-- 🔐 Experienced with Authentication, JWT & Sanctum
+- 🔐 Authentication using **JWT, Sanctum & Passport**
 - 📦 RESTful API Development
-- 🐳 Docker & Git
-- 🛢 MySQL, PostgreSQL & Redis
-- ☁️ Firebase Cloud Messaging
-- 💳 Payment Gateway Integration (TAP)
+- 🏗 MVC Architecture, SOLID Principles & Design Patterns
+- ⚙️ Queues, Jobs, Events & Scheduling
+- 🐳 Docker, Git & Linux
+- 🛢 MySQL, PostgreSQL, Redis & SQL Optimization
+- 🔍 Elasticsearch
+- ☁️ Firebase Cloud Messaging (FCM)
+- 💳 Payment Gateway Integration (TAP, MyFatoorah, Stripe)
+- 🔗 Third-party API Integrations
 
 ---
 
 ## 🛠 Tech Stack
 
-<p align="left">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=php,laravel,symfony,react,js,html,css,mysql,postgres,redis,docker,git,github,vscode,postman"/>
 
@@ -40,8 +44,8 @@ I enjoy designing clean APIs, optimizing databases, and solving real-world probl
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ebrahim-Adel-Mahmoud&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ebrahim-Adel-Mahmoud&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ebrahim-Adel-Mahmoud&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ebrahim-Adel-Mahmoud&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -49,9 +53,7 @@ I enjoy designing clean APIs, optimizing databases, and solving real-world probl
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=Ebrahim-Adel-Mahmoud&theme=tokyonight" />
 </p>
 
 ---
@@ -60,53 +62,53 @@ I enjoy designing clean APIs, optimizing databases, and solving real-world probl
 
 ### 🏪 Service Marketplace
 
-Laravel API for connecting customers with service providers.
+Backend API for connecting customers with service providers.
 
-- Authentication
-- Notifications
-- Firebase
-- Orders
-- Real-time Location
+- Authentication & Authorization
+- Firebase Notifications
+- Order Management
+- Real-time Location Tracking
+- RESTful APIs
 
 ---
 
 ### 🛒 E-commerce Backend
 
-- REST API
+Scalable backend for an e-commerce platform.
+
 - Product Management
-- Offers
+- Offers & Discounts
 - Authentication
-- Payment Integration
+- Payment Gateway Integration
+- RESTful APIs
 
 ---
 
 ### 💬 Chat System
 
+Real-time chat backend built with Laravel.
+
 - Image Upload
 - Notifications
-- API
-- Laravel Storage
+- File Storage
+- RESTful APIs
 
 ---
 
-## 📫 Connect with me
+## 📫 Connect with Me
 
-<p>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<p align="left">
+<a href="https://www.linkedin.com/in/ebrahim-adel-mahmoud/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
-
 </p>
 
 ---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat"/>
-
+<img src="https://komarev.com/ghpvc/?username=Ebrahim-Adel-Mahmoud&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
