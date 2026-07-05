@@ -113,9 +113,7 @@ Currently learning **React.js** to become a Full Stack Developer.
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ebrahim-Adel-Mahmoud&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="github trophy" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ebrahim-Adel-Mahmoud&theme=darkhub&column=4&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
