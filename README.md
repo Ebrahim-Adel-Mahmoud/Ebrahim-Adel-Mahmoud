@@ -6,8 +6,8 @@ Backend Laravel Developer | PHP | Symfony | REST APIs | React Learner
 
 <p align="center">
 I'm a Backend Laravel Developer with 4+ years of experience building scalable web applications using PHP and Laravel.
-I enjoy designing clean architectures, developing secure RESTful APIs, optimizing databases, and deploying applications to production.
-Currently expanding my frontend skills with React.js to become a Full Stack Developer.
+Passionate about software architecture, secure API development, database optimization, and delivering high-quality backend solutions.
+Currently learning React.js to become a Full Stack Developer.
 </p>
 
 ---
@@ -18,108 +18,67 @@ Currently expanding my frontend skills with React.js to become a Full Stack Deve
 - 🔥 Strong experience in **Laravel**
 - ⚡ Good knowledge of **Symfony**
 - 🌱 Currently learning **React.js**
-- 🏗 Experience with **MVC & HMVC Architecture**
-- 📦 Building scalable **RESTful APIs**
+- 🏗️ Experience with **MVC & HMVC Architecture**
+- 📦 Building scalable RESTful APIs
 - 🔐 Authentication & Authorization using **JWT, Sanctum & Passport**
-- 🛡 Secure API Development & Security Best Practices
-- ⚙ Background Jobs, Queues & Task Scheduling
-- 🗄 Database Design & Query Optimization
+- 🛡️ API Security & Best Practices
+- ⚙️ Queues, Jobs, Events & Task Scheduling
+- 🗄️ Database Design & Query Optimization
 - 🚀 VPS Deployment & Shared Hosting Management
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### Backend
+### 💻 Languages & Frameworks
 
-- PHP
-- Laravel
-- Symfony
-- RESTful APIs
-- GraphQL
-- MVC / HMVC
-- OOP
-- SOLID Principles
-- Design Patterns
-- Repository Pattern
-- Service Layer Pattern
+<p align="left">
+<img src="https://skillicons.dev/icons?i=php,laravel,symfony,react,js,html,css,bootstrap" />
+</p>
 
-### Database
+### 🗄️ Databases
 
-- MySQL
-- PostgreSQL
-- Redis
-- Database Design
-- Query Optimization
-- Indexing
-- Database Transactions
-- Migrations & Seeders
-- ERD Design
-- Multi-Tenant Architecture
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
+</p>
 
-### Security
+### ☁️ DevOps & Deployment
 
-- Authentication
-- Authorization
-- JWT
-- Laravel Sanctum
-- Laravel Passport
-- CSRF Protection
-- XSS Prevention
-- SQL Injection Prevention
-- Input Validation
-- Rate Limiting
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,apache,git,github,githubactions" />
+</p>
 
-### DevOps & Deployment
+### 🛠 Tools
 
-- Docker
-- Docker Compose
-- Linux
-- VPS Management
-- Shared Hosting
-- Nginx
-- Apache
-- SSL Configuration
-- Git
-- GitHub
-- GitHub Actions (CI/CD)
-- Cron Jobs
-- Queue Workers
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postman,vscode,firebase" />
+</p>
 
-### Integrations
+---
 
-- Firebase Cloud Messaging (FCM)
-- Firebase Authentication
-- Firestore
-- Google Maps API
-- Payment Gateway Integration (TAP)
-- Third-party APIs
+## 🚀 Backend Expertise
 
-### Performance
-
-- Redis Caching
-- Caching Strategies
-- Query Optimization
-- Eager Loading
-- Background Processing
-
-### Tools
-
-- Postman
-- Swagger / OpenAPI
-- Xdebug
-- Laravel Debugbar
-- Laravel Telescope
-- Composer
-- VS Code
-
-### Frontend
-
-- React.js (Learning)
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Bootstrap
+![Laravel](https://img.shields.io/badge/Laravel-Framework-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-Framework-black?style=for-the-badge&logo=symfony)
+![REST API](https://img.shields.io/badge/REST-API-success?style=for-the-badge)
+![HMVC](https://img.shields.io/badge/HMVC-Architecture-blue?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC-Architecture-orange?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-Authentication-black?style=for-the-badge)
+![Sanctum](https://img.shields.io/badge/Laravel-Sanctum-red?style=for-the-badge)
+![Passport](https://img.shields.io/badge/Laravel-Passport-red?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-OpenAPI-85EA2D?style=for-the-badge&logo=swagger)
+![Google Maps API](https://img.shields.io/badge/Google-Maps_API-4285F4?style=for-the-badge&logo=googlemaps)
+![Firebase](https://img.shields.io/badge/Firebase-FCM-FFCA28?style=for-the-badge&logo=firebase)
+![WebSockets](https://img.shields.io/badge/WebSockets-Real_Time-blueviolet?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-Caching-red?style=for-the-badge&logo=redis)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-Search-005571?style=for-the-badge&logo=elasticsearch)
+![Multi-Tenant](https://img.shields.io/badge/Multi--Tenant-Architecture-success?style=for-the-badge)
+![VPS](https://img.shields.io/badge/VPS-Deployment-blue?style=for-the-badge)
+![Shared Hosting](https://img.shields.io/badge/Shared-Hosting-lightgrey?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
+![Laravel Telescope](https://img.shields.io/badge/Laravel-Telescope-red?style=for-the-badge)
+![Laravel Debugbar](https://img.shields.io/badge/Laravel-Debugbar-orange?style=for-the-badge)
+![Xdebug](https://img.shields.io/badge/Xdebug-Debugging-green?style=for-the-badge)
 
 ---
 
@@ -149,56 +108,40 @@ Currently expanding my frontend skills with React.js to become a Full Stack Deve
 
 ### 🏪 Service Marketplace
 
-A Laravel-based marketplace connecting customers with service providers.
-
-**Features**
-
-- RESTful APIs
+- Laravel REST API
 - Authentication & Authorization
 - Firebase Notifications
 - Real-time Location Tracking
-- Orders Management
 - Provider Dashboard
-
----
+- Order Management
 
 ### 🛒 E-commerce Backend
 
-Scalable backend for an e-commerce platform.
-
-**Features**
-
 - Product & Category Management
-- Offers & Coupons
-- Authentication
+- Coupons & Offers
 - Payment Gateway Integration
-- Order Management
-
----
+- Authentication
+- RESTful APIs
 
 ### 💬 Chat System
 
-Real-time chat backend built with Laravel.
-
-**Features**
-
 - Image Upload
-- Notifications
-- File Storage
-- REST APIs
+- Firebase Notifications
+- Laravel Storage
+- REST API
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect With Me
 
 <p align="left">
 
 <a href="https://www.linkedin.com/in/ebrahim-adel-mahmoud/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
