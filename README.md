@@ -117,7 +117,7 @@ Currently learning **React.js** to become a Full Stack Developer.
   <img src="https://img.shields.io/badge/Laravel-Expert-FF2D20?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-4CAF50?style=for-the-badge" />
 </p>
-
+---
 # 📊 GitHub Stats
 
 <p align="center">
