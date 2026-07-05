@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ebrahim Adel Mahmoud</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ebrahim-Adel-Mahmoud/banner/main/banner.png" width="100%" alt="Banner"/>
+</p>
 
 <h3 align="center">
 Backend Laravel Developer | PHP | Symfony | REST APIs | React Learner
