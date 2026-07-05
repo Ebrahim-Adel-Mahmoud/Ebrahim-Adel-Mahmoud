@@ -114,7 +114,7 @@ Currently learning **React.js** to become a Full Stack Developer.
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ebrahim-Adel-Mahmoud&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="github trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Ebrahim-Adel-Mahmoud&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="github trophy" />
   </a>
 </p>
 
