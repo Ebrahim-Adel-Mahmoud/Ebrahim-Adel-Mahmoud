@@ -41,9 +41,9 @@ I enjoy designing clean APIs, optimizing databases, and solving real-world probl
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ebrahim-Adel-Mahmoud&show_icons=true&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ebrahim-Adel-Mahmoud&layout=compact&theme=tokyonight"/>
 
 </p>
 
