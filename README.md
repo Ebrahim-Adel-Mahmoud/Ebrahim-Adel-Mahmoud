@@ -85,11 +85,8 @@ Currently learning React.js to become a Full Stack Developer.
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ebrahim-Adel-Mahmoud&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ebrahim-Adel-Mahmoud&layout=compact&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ebrahim-Adel-Mahmoud&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ebrahim-Adel-Mahmoud&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
