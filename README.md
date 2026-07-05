@@ -35,11 +35,13 @@ Currently learning **React.js** to become a Full Stack Developer.
 ## ⚡ Quick Facts
 
 - 💼 Backend Laravel Developer
-- 🔥 4+ Years Experience
+- 🔥 4+ Years of Professional Experience
 - 🌍 Based in Egypt
-- 🚀 Open to Remote Opportunities
-- 🌱 Learning React.js
-- 💬 Ask me about Laravel, PHP, APIs & Databases
+- 💼 Available for Remote, Hybrid & On-site Opportunities
+- 🌱 Currently Learning React.js
+- 💬 Ask me about Laravel, PHP, Symfony, REST APIs & Database Design
+- 🤝 Open to Full-time Opportunities
+- 🚀 Passionate about Clean Architecture, Performance & API Security
 
 ---
 
