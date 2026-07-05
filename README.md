@@ -18,18 +18,19 @@ Currently expanding my skills in React.js to become a Full Stack Developer.
 - 🔥 Strong experience in **Laravel**
 - ⚡ Good knowledge of **Symfony**
 - 🌱 Currently learning **React.js**
-- 🔐 Authentication using **JWT, Sanctum & Passport**
-- 📦 RESTful API Development
-- 🏗 MVC Architecture, SOLID Principles & Design Patterns
-- ⚙️ Queues, Jobs, Events & Scheduling
-- 🐳 Docker, Git & Linux
-- 🛢 MySQL, PostgreSQL, Redis & SQL Optimization
-- 🔍 Elasticsearch
+- 🏗 MVC & HMVC Architecture
+- 🧩 SOLID Principles, Design Patterns & Clean Code
+- 🔐 Authentication & Security (**JWT, Sanctum, Passport, Authorization, Policies & Gates**)
+- 📦 RESTful API Development & Third-party API Integrations
+- ⚙️ Queues, Events, Listeners, Jobs & Task Scheduling (Cron Jobs)
+- 🗄 Database Design, Optimization, Indexing & Query Performance
+- 🛢 MySQL, PostgreSQL, Redis & Elasticsearch
 - ☁️ Firebase Cloud Messaging (FCM)
 - 💳 Payment Gateway Integration (TAP, MyFatoorah, Stripe)
-- 🔗 Third-party API Integrations
+- 🐳 Docker, Docker Compose, Git & Linux
+- 🌐 VPS Management, Shared Hosting, Nginx & Apache Configuration
+- 🚀 Deployment, SSL, Domain & DNS Configuration
 
----
 
 ## 🛠 Tech Stack
 
