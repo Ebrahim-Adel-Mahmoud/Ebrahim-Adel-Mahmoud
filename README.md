@@ -140,7 +140,7 @@ Currently learning React.js to become a Full Stack Developer.
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:Ebrahim.Adel.Mahmoud@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
