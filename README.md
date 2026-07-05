@@ -3,21 +3,21 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Backend+Laravel+Developer;PHP+%7C+Laravel+%7C+Symfony;REST+APIs+%7C+Docker+%7C+Redis;Open+to+Remote+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Backend+Laravel+Developer;PHP+%7C+Laravel+%7C+Symfony;REST+APIs+%7C+Docker+%7C+Redis;Available+for+Remote,+Hybrid+%26+On-site+Roles" />
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ebrahim-adel-mahmoud">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/ebrahim-adel-mahmoud">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="mailto:Ebrahim.Adel.Mahmoud@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="mailto:Ebrahim.Adel.Mahmoud@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<a href="https://github.com/Ebrahim-Adel-Mahmoud">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <a href="https://github.com/Ebrahim-Adel-Mahmoud">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
